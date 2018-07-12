@@ -1,0 +1,99 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "description": "Lo mejor para concentrarte",
+      "title": "Para programar",
+      "playlist": [
+        {
+          "title": "One more time",
+          "author": "Daft Punk",
+          "type": "video",
+          "cover": "./images/covers/one-more-time.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": "1"
+        },
+        {
+          "title": "Midnight City",
+          "author": "M83",
+          "type": "video",
+          "cover": "./images/covers/midnight.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": "2"
+        },
+        {
+          "title": "Solar Sailer",
+          "author": "Daft Punk",
+          "type": "video",
+          "cover": "./images/covers/solar-sailer.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": "3"
+        },
+        {
+          "title": "The social network",
+          "author": "The social network",
+          "type": "video",
+          "cover": "./images/covers/social.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": "4"
+        },
+        {
+          "title": "No vaya a ser",
+          "author": "Pablo Alboran",
+          "type": "video",
+          "cover": "./images/covers/no-vaya-a-ser.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": "5"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "description": "Si no te queda de otra",
+      "title": "Regueton",
+      "playlist": [
+        {
+          "title": "Despacito",
+          "author": "Luis Fonsi",
+          "type": "video",
+          "cover": "./images/covers/despacito.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": "6"
+        },
+        {
+          "title": "Echame la culpa",
+          "author": "Luis fonsi",
+          "type": "video",
+          "cover": "./images/covers/echame-la-culpa.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": "7"
+        },
+        {
+          "title": "Mi Gente",
+          "author": "J Bavil",
+          "type": "video",
+          "cover": "./images/covers/mi-gente.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": "8"
+        },
+        {
+          "title": "Felices los 4",
+          "author": "Maluma",
+          "type": "video",
+          "cover": "./images/covers/felices.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": "9"
+        },
+        {
+          "title": "Me Rehúso",
+          "author": "Danny Ocean",
+          "type": "video",
+          "cover": "./images/covers/rehuso.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": "10"
+        }
+      ]
+    }
+  ]
+}
+
